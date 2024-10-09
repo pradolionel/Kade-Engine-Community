@@ -33,7 +33,7 @@
     {
       "name": "polymod",
       "type": "git",
-      "url": "https://github.com/swordcube/scriptless-polymod.git"
+      "url": "https://github.com/swordcube/scriptless-polymod"
     },
     {
       "name": "flixel-text-input",
@@ -50,31 +50,31 @@
       "name": "tjson",
       "type": "git",
       "ref": "master",
-      "url": "https://github.com/EliteMasterEric/TJSON.git"
+      "url": "https://github.com/EliteMasterEric/TJSON"
     },
     {
       "name": "hscript-improved",
       "type": "git",
       "ref": "master",
-      "url": "https://github.com/FNF-CNE-Devs/hscript-improved.git"
+      "url": "https://github.com/FNF-CNE-Devs/hscript-improved"
     },
     {
       "name": "hxdiscord_rpc",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/MAJigsaw77/hxdiscord_rpc.git"
+      "url": "https://github.com/MAJigsaw77/hxdiscord_rpc"
     },
     {
       "name": "haxeui-flixel",
       "type": "git",
       "ref": "master",
-      "url": "https://github.com/haxeui/haxeui-flixel.git --skip-dependencies"
+      "url": "https://github.com/haxeui/haxeui-flixel"
     },
     {
       "name": "haxeui-core",
       "type": "git",
       "ref": "master",
-      "url": "https://github.com/haxeui/haxeui-core.git --skip-dependencies"
+      "url": "https://github.com/haxeui/haxeui-core"
     },
     {
       "name": "hxvlc",
